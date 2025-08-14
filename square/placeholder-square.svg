@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1553.28"
+   width="960"
    height="960"
-   viewBox="0 0 410.97201 253.99999"
+   viewBox="0 0 254 253.99999"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
-   sodipodi:docname="placeholder-wide.svg"
-   inkscape:export-filename="placeholder-wide-960x593.png"
-   inkscape:export-xdpi="59.330002"
-   inkscape:export-ydpi="59.330002"
+   sodipodi:docname="placeholder-square.svg"
+   inkscape:export-filename="placeholder-square-240x240.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,12 +27,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.34950396"
-     inkscape:cx="467.80586"
+     inkscape:cx="466.37526"
      inkscape:cy="852.63698"
-     inkscape:window-width="1104"
+     inkscape:window-width="1728"
      inkscape:window-height="1051"
-     inkscape:window-x="627"
-     inkscape:window-y="38"
+     inkscape:window-x="3000"
+     inkscape:window-y="530"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -42,9 +42,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#808080;stroke-width:2.68816"
+       style="fill:#808080;stroke-width:2.11332"
        id="rect1"
-       width="410.97202"
+       width="254"
        height="254"
        x="0"
        y="0"
@@ -58,13 +58,13 @@
        y="140.04967"
        ry="1.1640502" />
     <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:9.99996;stroke-dasharray:none;stroke-opacity:1"
-       d="M 410.97202,0 C 5.3808594e-6,254.00001 0,254 0,254"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:7.86156;stroke-dasharray:none;stroke-opacity:1"
+       d="M 254,0 C 3.3256237e-6,254.00001 0,254 0,254"
        id="path1"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0,0 410.97201,254"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:7.8616;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 254,254"
        id="path2"
        sodipodi:nodetypes="cc" />
     <rect
@@ -72,19 +72,19 @@
        id="rect3"
        width="240.23933"
        height="53.5"
-       x="85.366333"
+       x="6.8803329"
        y="100.25"
        ry="1.1640502" />
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:22.5778px;font-family:'JetBrains Mono Slashed';-inkscape-font-specification:'JetBrains Mono Slashed Medium';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#808080;stroke-width:1.05833"
-       x="123.56982"
+       x="45.083817"
        y="135.07532"
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1.05833"
-         x="123.56982"
+         x="45.083817"
          y="135.07532">PLACEHOLDER</tspan></text>
   </g>
 </svg>
