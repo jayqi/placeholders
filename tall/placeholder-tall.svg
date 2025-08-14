@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="960"
+   height="1553.28"
+   viewBox="0 0 254 410.97199"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="placeholder-vert.svg"
+   inkscape:export-filename="placeholder-tall-791x1280.png"
+   inkscape:export-xdpi="79.110008"
+   inkscape:export-ydpi="79.110008"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.34950396"
+     inkscape:cx="467.80586"
+     inkscape:cy="852.63698"
+     inkscape:window-width="1728"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#808080;stroke-width:2.68816"
+       id="rect1"
+       width="254"
+       height="410.97202"
+       x="0"
+       y="0"
+       ry="2.9566875" />
+    <rect
+       style="fill:#808080;stroke-width:1.05833"
+       id="rect2"
+       width="5.2991767"
+       height="17.411581"
+       x="6.8132272"
+       y="140.04967"
+       ry="1.1640502" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+       d="M 254,0 C 0,410.97202 0,410.97199 0,410.97199"
+       id="path1" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 C 254,410.97199 254,410.97199 254,410.97199"
+       id="path2" />
+    <rect
+       style="fill:#808080;stroke:none;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="54.506001"
+       height="53.5"
+       x="99.747002"
+       y="178.73601"
+       ry="1.1640502" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:22.5778px;font-family:'JetBrains Mono Slashed';-inkscape-font-specification:'JetBrains Mono Slashed Medium';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#808080;stroke-width:1.05833"
+       x="45.083817"
+       y="213.56131"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1.05833"
+         x="45.083817"
+         y="213.56131">PLACEHOLDER</tspan></text>
+  </g>
+</svg>
