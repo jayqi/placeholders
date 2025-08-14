@@ -2,7 +2,7 @@
 
 Placeholder images in three styles: tall, wide, and square. Includes PNG files of varying sizes, as well as SVG files, from which you can generate other sizes or formats.
 
-Made available under the [CC0 License](./LICENSE), free to use for any purpose without restriction.
+Made available under the [CC0 License](./LICENSE), free to use for any purpose without restriction. Shoutouts on [social media](https://github.com/jayqi) would be appreciated though!
 
 | Tall (approx. 1:1.618) | Wide (approx. 1.618:1) | Square (1:1) |
 | :--: | :--: | :--: |
